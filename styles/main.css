@@ -1,0 +1,49 @@
+
+body{
+  background-color: #CDBF01;
+
+}
+
+header {
+  overflow: hidden;
+  background: #efe991;
+  margin: 40px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+  display: block;
+}
+
+img{
+  width: 800px;
+  height: 600px;
+  margin: 40px
+}
+
+video{
+  max-width: 800px;
+  margin: 50px;
+}
+
+a{
+  display: block;
+  text-align: left;
+}
+
+video{
+  margin-bottom:5px;
+  margin-top:20px;
+  margin-left:40px;
+}
+
+.next {
+  float: right;
+}
+
+.previous {
+  float: left;
+}
